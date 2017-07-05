@@ -19,7 +19,7 @@ follow this link for setting up node and npm-https://tecadmin.net/upgrade-nodejs
 
 `npm install node-rest-client`
 
-### C)install JSON Server:
+### C) install JSON Server:
 
 `npm install -g json-server`
 
